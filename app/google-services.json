@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "186626674643",
+    "firebase_url": "https://blood-bank-management-sy-1e467.firebaseio.com",
+    "project_id": "blood-bank-management-sy-1e467",
+    "storage_bucket": "blood-bank-management-sy-1e467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186626674643:android:04c9edc524d9d48856a926",
+        "android_client_info": {
+          "package_name": "com.example.bloodbankmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186626674643-cph5imdmtnusrd1ppk7drfi930v5erft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXE22v2RrazioVNLDDLvisTi402fIW7aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186626674643-cph5imdmtnusrd1ppk7drfi930v5erft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

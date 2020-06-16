@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/regnew"
+    tools:context=".Activities.ContactUsActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        app:menu="@menu/main_menu"
+        app:title="@string/app_name"
+        app:titleTextColor="@android:color/white" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="17dp"
+        android:layout_marginTop="170dp"
+        android:layout_marginEnd="11dp"
+        android:drawableTint="@android:color/black"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text=" Blood Bank Management System "
+        android:textAlignment="gravity"
+        android:textColor="@android:color/black"
+        android:textSize="25sp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:layout_width="411dp"
+        android:layout_height="181dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="-2dp"
+        android:layout_marginTop="200dp"
+        android:drawableTint="@android:color/black"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="THREE AMIGOS"
+        android:textAlignment="gravity"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="353dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="250dp"
+        android:drawableTint="@android:color/black"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="saw.mendes.meer@gmail.com"
+        android:textAlignment="gravity"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="423dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="270dp"
+        android:drawableTint="@android:color/black"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="+977 9810344894"
+        android:textAlignment="gravity"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="445dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="350dp"
+        android:layout_marginBottom="77dp"
+        android:drawableTint="@android:color/black"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="surazzkumal@gmail.com"
+        android:textAlignment="gravity"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="519dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="400dp"
+        android:drawableTint="@android:color/black"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="pakumkarmacharya9@gmail.com"
+        android:textAlignment="gravity"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="700dp"
+        android:drawableTint="@android:color/black"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text=" All right reserved © ℗®™ Copyright Three Amigos "
+        android:textAlignment="gravity"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:textStyle="italic" />
+
+</RelativeLayout>

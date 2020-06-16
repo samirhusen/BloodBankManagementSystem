@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Blood Bank</string>
+    <string name="sign_up"><u>Already have an account? Click Here To Login</u></string>
+    <string name="choose_image"><u>Click Here to choose an image</u></string>
+    <string name="message_register">Write a heartfelt message and add an image for the community, Somebody will definitely help you if possible</string>
+    <string name="about">The basic idea of this application was make user able to share their request for urgent blood in the community of their city, and other major function of this application is to be able to find donors in their city with specific blood groups.</string>
+    <string name="forgot_password"><u>Forgot password?</u></string>
+
+</resources>
